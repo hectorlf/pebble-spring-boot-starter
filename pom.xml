@@ -18,7 +18,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<boot.version>1.2.1.RELEASE</boot.version>
-		<pebble-spring.version>2.4.0</pebble-spring.version>
+		<pebble-spring.version>2.5.0</pebble-spring.version>
 	</properties>
 
 	<licenses>
