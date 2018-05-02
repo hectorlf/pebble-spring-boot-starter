@@ -14,7 +14,7 @@ Add the starter dependency to your pom.xml:
 ```
 Or build.gradle:
 ```Gradle
-compile "com.mitchellbosecke:pebble-spring-boot-starter:$version"
+compile "io.pebbletemplates:pebble-spring-boot-starter:$version"
 ```
 
 This is enough for autoconfiguration to kick in. This includes:
